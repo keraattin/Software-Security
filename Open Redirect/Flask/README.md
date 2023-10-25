@@ -43,5 +43,5 @@ python3 app.py
 
 **Important note:**
 ```
-You can work on App/app.py, but it should remain the same as it was when you submitted your pull request.
+You can work on App/app.py, but do not include your changes to pull request.
 ```
