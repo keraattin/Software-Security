@@ -1,4 +1,4 @@
-# Info
+# Information
 
 | - | - |
 | ------ | ------ |
@@ -6,8 +6,30 @@
 | Language | Pyhton3 |
 | Language Version | 3.10 |
 | Framework | Flask |
-| Framework Version | 3.0.0 |
+| Framework Version | 2.3.2 |
 | Enviroment | Web |
+
+# How to Run
+
+## With Docker
+
+``` 
+docker-compose up --build
+```
+
+## Without Docker
+
+Install Dependencies
+
+```
+pip install -r requirements.txt
+```
+
+Run the App
+
+```
+python3 app.py
+```
 
 # Contributing
 
